@@ -16,7 +16,7 @@ CodeChef Python projects Intermediate level
 - Created a password generator using random conditionals, iterables, functions and **Random** library with only one number and special character both of which are optional given the length of the password.
 - Created a password generator using random conditionals, iterables, functions and **Random** library with multiple number and special character both of which are again optional given the length of the password.
 
-**Project 2: Rock, Paper and Scissors Gamer**
+**Project 2: Rock, Paper and Scissors Game**
 - Created a rock, paper and scissors game using random conditionals, iterables, functions and **Random** library.
 - User has the options to enter how many rounds to play.
 - Added another element as "water" which loses only against "Rock" and it wins against "Paper" and "Scissors".
