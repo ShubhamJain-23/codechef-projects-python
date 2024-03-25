@@ -11,7 +11,7 @@ CodeChef Python projects Intermediate level
 **Project 3: Digital Clock & Countdown Timer**
 - Created a digital clock and countdown timer project using **Time**, **Sys** module.
 
-## Easy Level
+## Medium Level
 **Project 1: Password Generator**
 - Created a password generator using random conditionals, iterables, functions and **Random** library with only one number and special character both of which are optional given the length of the password.
 - Created a password generator using random conditionals, iterables, functions and **Random** library with multiple number and special character both of which are again optional given the length of the password.
