@@ -1,8 +1,10 @@
 import random
 
+# Generate random number
 def getRandomNumber():
     return random.randrange(1, 100)
 
+# Check the number for Hot, Cold or Right
 def giveHint(number, guess):
     if guess > (number + 10) or guess < (number - 10):
         return "Cold"
@@ -13,7 +15,6 @@ def giveHint(number, guess):
 
 def runGuess():
     secretNumber = getRandomNumber()
-    # Update the code below
     while True:
         user_guess = int(input("Enter a number between 1 and 100: "))
         hint = giveHint(secretNumber, user_guess)
