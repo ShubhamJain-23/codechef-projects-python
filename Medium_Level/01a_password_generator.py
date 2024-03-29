@@ -16,7 +16,7 @@ def generate_password(length, use_special_chars, use_numbers):
     """Generates a random password based on user preferences."""
     password = ''
 
-    # Generate remaining characters
+    # Generate length - 2 characters with only letters
     for _ in range(length-2):
         password += random.choice(string_char)
 
