@@ -63,6 +63,6 @@ if __name__ == '__main__':
         user_choice = int(input("Select the operation: "))
         value = calculatorFunction(user_choice)
         print(value)
-        # Solution as follows
+
         if value == "Exiting the calculator, bye bye!":
             break
